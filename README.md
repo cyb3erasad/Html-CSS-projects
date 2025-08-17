@@ -33,7 +33,6 @@ This project helps to **view nurses, check availability, book, generate bills, a
 1. Clone this repository:  
    ```bash
    git clone https://github.com/cyb3rasad/nurse-management-system.git
-   cd nurse-booking-system
    ```
 
 2. Run the program:  
