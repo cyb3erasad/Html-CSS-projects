@@ -13,7 +13,7 @@ This project helps to **view nurses, check availability, book, generate bills, a
 🔹 **View All Nurses** – See a complete list of all registered nurses.  
 🔹 **View Available Nurses** – Quickly check which nurses are available.  
 🔹 **Book Nurse** – Assign a nurse to a patient with booking details.  
-🔹 **Generate Bill** – Create a bill showing charges, payments, and balance.  
+🔹 **Generate Bill** – Create a bill showing charges, payments, paid, due and status.  
 🔹 **Add Nurse** – Register a new nurse with speciality, charges, and availability.  
 🔹 **Update Payment** – Record payments and update dues for bookings.  
 🔹 **Exit** – Close the system safely.  
