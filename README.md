@@ -1,7 +1,6 @@
 # 🏥 Nurse Booking System  
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 [![Status](https://img.shields.io/badge/Project-Active-success.svg)]()  
 
 A **Python console application** to manage nurse bookings for patients in a hospital or clinic.  
