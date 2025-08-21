@@ -46,7 +46,7 @@ This project helps to **view nurses, check availability, book, generate bills, a
    2. View Available Nurses ✅
    3. Book Nurse 📖
    4. Generate Bill 🧾
-   5. Add Nurse ➕
+   5. Add Nurse 
    6. Update Payment 💳
    7. Exit 🚪
    ```
