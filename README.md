@@ -65,7 +65,7 @@ This project helps to **view nurses, check availability, book, generate bills, a
 ## 🤝 Contributing  
 
 Contributions are welcome!  
-1. Fork the repository  
+1. Fork the repo  
 2. Create a new branch (`feature.xyz`)  
 3. Commit changes  
 4. Open a Pull Request  
