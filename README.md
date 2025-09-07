@@ -7,7 +7,6 @@ A **Python console application** to manage nurse bookings for patients in a hosp
 This project helps to **view nurses, check availability, book, generate bills, and manage payments** easily.
 
 ---
-
 ## ✨ Features  
 
 🔹 **View All Nurses** – See a complete list of all registered nurses.  
