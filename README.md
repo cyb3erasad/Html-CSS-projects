@@ -16,7 +16,7 @@ This project helps to **view nurses, check availability, book, generate bills, a
 🔹 **Generate Bill** – Create a bill showing charges, payments, paid, due and status.  
 🔹 **Add Nurse** – Register a new nurse with speciality, charges, and availability.  
 🔹 **Update Payment** – Record payments and update dues for bookings.  
-🔹 **Exit** – Close the system safely.mnmh
+🔹 **Exit** – Close the system safely.
 
 ---
 
