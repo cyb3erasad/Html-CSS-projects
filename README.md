@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Project-Active-success.svg)]()  
 
 A **Python console application** to manage nurse bookings for patients in a hospital or clinic.  
-This project helps to **view nurses, check availability, book, generate bills, and manage payments** easily.
+This project helps to **view nurses, check availability, book, generate bills, and manage payments** easily...
 
 ---
 
