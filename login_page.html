@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link href="https://fonts.googleapis.com/css2?family=Bubblegum+Sans&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            background: #461959;
+            padding: 4rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h1{
+            color: white;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 3rem;
+            text-shadow: 1px 1px 2px rgb(215, 127, 222);
+        }
+        h3{
+            color: #3C0753;
+            text-align: center;
+            margin-bottom: 1.2rem;
+            font-size: 1.2rem;
+            font-family: 'Fredoka One', cursive;
+            text-shadow: 1px 1px 2px rgb(183, 88, 190);
+        }
+        form{
+            background-color: #EBD3F8;
+            padding: 2rem;
+            border-radius: 12px;
+            width: 100%;
+            max-width: 420px;
+            box-shadow: 0px 8px 16px black;
+        }
+        form div{
+            margin-bottom: 1.2rem;
+            display: flex;
+            flex-direction: column;
+        }
+        label{
+            font-weight: bold;
+            margin-bottom: 0.4rem;
+            color: white;
+            font-size: 1rem;
+        }
+        input{
+            padding: 0.8rem;
+            border: 1px solid #7A1CAC;
+            border-radius: 8px;
+            font-size: 0.8rem;
+            transition: border 0.3s, box-shadow 0.3s;
+        }
+        input:focus{
+            border-color: #EBD3F8;
+            outline: none;
+            box-shadow: 0 0 6px #3C0753;
+        }
+        button{
+            background: #B799FF;
+            color: white;
+            border: none;
+            padding: 0.8rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            font-weight: bold;
+            transition: background 0.3s, transform 0.2s;
+        }
+        button:hover{
+            background: #8d6fd4;
+            transform: scale(1.05);
+        }
+        button:active{
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+<body>
+    <H1>JOIN US TODAY</H1>
+    <FORM action="">
+        <div>
+            <label for="email"></label>
+            <input id="email" type="email" placeholder="Enter your gmail" required>
+        </div>
+        <div>
+            <label for="password"></label>
+            <input type="password" id="password" placeholder="password" required>
+        </div>
+        <div>
+            <button type="submit">Login</button>
+        </div>
+        <h3>OR</h3>
+        <div>
+            <button><a href=""></a>Create account</button>
+        </div>
+    </FORM>
+</body>
+</html>
